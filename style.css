@@ -1,0 +1,56 @@
+h1 {
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 50px;
+  color: white;
+  padding-bottom: 140px;
+}
+
+span {
+  color: white;
+
+}
+
+.proj {
+  padding-left: 720px;
+}
+
+.frst {
+  background-color: #FFA372;
+  height: 730px;
+  padding: 0px;
+}
+
+.lipsum {
+  padding: 180px 100px;
+}
+
+.logo {
+  height: 40px;
+  padding-left: 100px;
+  padding-top: 30px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.vid {
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+  padding-top: 45px;
+  /* overflow: scroll; */
+  transition: all 15s ease-out;
+  /* transform: scaleX(0.27); */
+  transform: scale(0.29);
+}
+
+.lptp {
+  height: 810px;
+  position: relative;
+  top: -5px;
+  z-index: -1;
+  padding-left: 383px;
+}
